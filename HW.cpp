@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
     int a;
-    cout << "Hello World!\n";
+    cout << "Hello World2!" ;
     cin >> a;
     return 0;
 }
